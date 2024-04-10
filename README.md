@@ -34,7 +34,6 @@
 <b>Email:</b> eduardo.renan02@hotmail.com
 
 <a href="https://github.com/renanlimasrc" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
-<a href="https://gitlab.com/renanlimasrc" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" /></a> 
 <a href="https://www.facebook.com/renan.e.lima" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 </p>
 
