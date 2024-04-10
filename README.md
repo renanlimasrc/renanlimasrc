@@ -1,11 +1,6 @@
-<h1>Olá!</h1>
-
-<h2><b>Sobre mim</b></h2>
-
 <p>Apenas um entusiasta em tecnologia e ferramentas open-source.
 
 </p>
-
 
 <h3><b>Ferramentas </b></h3>
 
@@ -36,10 +31,3 @@
 <a href="https://github.com/renanlimasrc" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
 <a href="https://www.facebook.com/renan.e.lima" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 </p>
-
-
-
------
-
-
-Última vez editado: 08/01/2023
