@@ -2,18 +2,12 @@
 
 <h2><b>Sobre mim</b></h2>
 
-<p>Sou Renan Lima, um entusiasta em tecnologia e ferramentas open-source.
-Sou bacharelado em Engenharia da Computação e moro em de Guarulhos, SP. Minha área de foco está em Linux e ferramentas relacionadas. Conheço Shell e suas ferramentas (como AWK e SED), Ansible, Zabbix, virtualização, segurança e boas práticas em servidores. Atualmente estou me aprofundando em Python e Bash.
-
-
-<h4><b>Extras:</b></h4> Inglês avançado(leitura,escrita e fala), um pouco da linguagem C e também de eletrônica.
+<p>Apenas um entusiasta em tecnologia e ferramentas open-source.
 
 </p>
 
 
 <h3><b>Ferramentas </b></h3>
-
-As principais ferramentas que conheço são:
 
 <p>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
